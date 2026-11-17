@@ -1,0 +1,40 @@
+# ML Problem Framing
+
+## Project: Customer Churn Prediction
+
+### 1. Problem
+Predict whether a customer is likely to leave a service.
+
+### 2. Objective
+Identify customers who may leave and help the company improve customer retention.
+
+### 3. Prediction Target
+The target column is churned.
+- 1 = Customer left
+- 0 = Customer stayed
+
+### 4. Input Features
+- Customer tenure
+- Support tickets
+- Monthly spending
+- Last login
+- Plan type
+
+### 5. ML Algorithm
+Logistic Regression.
+
+### 6. Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+
+### 7. Responsible AI
+- Protect customer information.
+- Avoid biased predictions.
+- Keep human review.
+- Monitor model performance.
+
+### 8. Conclusion
+Machine learning can help identify customers
+who may leave and support better decisions.
